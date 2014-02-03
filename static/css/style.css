@@ -1,0 +1,18 @@
+.header {
+	background: #ccc;
+	padding:  0 0 20px 0;
+	margin-bottom: 40px;
+}
+.footer {
+	margin-top: 60px;
+	padding: 20px 0;
+	border-top: 2px solid #ccc;
+}
+
+
+
+
+.link {
+	margin: 1em 0;
+	display: block;
+}
